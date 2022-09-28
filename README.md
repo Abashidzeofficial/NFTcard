@@ -1,6 +1,6 @@
 # NFTcard
 1.Created desktop aplication form. 
-2.Created with CodeSandbox. 
+2.Created with CodeSandbox( https://codesandbox.io/s/github/Abashidzeofficial/NFTcard ). 
 3.Used:HTML and CSS. 
 4.Learning Semantic HTML5 markup,CSS custom properties and github.
 5.Learning ### Flexbox.
